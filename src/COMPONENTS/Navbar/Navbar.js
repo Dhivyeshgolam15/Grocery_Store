@@ -3,6 +3,7 @@ import './Navbar.css'
 import logo from '../../ASSETS/logo.png'
 import Dropdown from 'react-bootstrap/Dropdown'
 import { Link } from 'react-router-dom'
+import ComingSoonPage from '../ComingSoonPage.js/ComingSoonPage'
 const Navbar = ({ reloadnavbar }) => {
     const [cartquantity, setcartquantity] = useState(0)
 
@@ -41,6 +42,7 @@ const Navbar = ({ reloadnavbar }) => {
                         </svg>
 
                     </button>
+                    <button></button>
                 </div>
 
                 <div className='right'>
@@ -82,9 +84,9 @@ const Navbar = ({ reloadnavbar }) => {
                     </Dropdown.Toggle>
 
                     <Dropdown.Menu>
-                        <Dropdown.Item href="#/action-1">Fresh Vegetables</Dropdown.Item>
-                        <Dropdown.Item href="#/action-2">Fresh Fruits</Dropdown.Item>
-                        <Dropdown.Item href="#/action-3">House Cleaning</Dropdown.Item>
+                        <Dropdown.Item href="http://localhost:3000/cart">Fresh Vegetables</Dropdown.Item>
+                        <Dropdown.Item href="http://localhost:3000/cart">Fresh Fruits</Dropdown.Item>
+                        <Dropdown.Item href="http://localhost:3000/cart">House Cleaning</Dropdown.Item>
                     </Dropdown.Menu>
                 </Dropdown>
                 <Link to='/about'>

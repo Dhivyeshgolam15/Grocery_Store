@@ -12,6 +12,7 @@ import YourOrders from '../../COMPONENTS/UserProfile/YourOrders'
 import UserAddress from '../../COMPONENTS/UserProfile/UserAddress'
 import LegalNotice from '../../COMPONENTS/UserProfile/LegalNotice'
 
+
 const UserProfile = () => {
 
     const {activepage} = useParams()

@@ -16,7 +16,6 @@ import FAQ from './PAGES/Extra/FAQ';
 import Termsandconditions from './PAGES/Extra/Termsandconditions';
 import PrivacyPolicy from './PAGES/Extra/PrivacyPolicy';
 import ComingSoonPage from './COMPONENTS/ComingSoonPage.js/ComingSoonPage';
-
 const App = () => {
   return (
     <BrowserRouter>
@@ -34,7 +33,7 @@ const App = () => {
         <Route path="/signup" element={<Signup/>} />
         <Route path="/forgotpassword" element={<ForgotPassword/>} />
         <Route path="/cart" element={<ComingSoonPage/>} />
-        <Route path='/user/:activepage' element={<ComingSoonPage/>} />
+        <Route path='/user/:activepage' element={<UserProfile/>} />
         <Route path="/FAQ" element={<FAQ/>} />
         <Route path="/termsandconditions" element={<Termsandconditions/>} />
         <Route path="/privacypolicy" element={<PrivacyPolicy/>} />
