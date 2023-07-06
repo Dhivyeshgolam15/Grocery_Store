@@ -10,7 +10,7 @@ const Footer2 = () => {
       <div className='footerin1'>
         <div className='f1'>
           <img src={logo} alt='logo' className='logo' />
-          <p>Fit Grocery is a leading online grocery store in the Mauritius. We are committed to providing the best quality products at the best prices.</p>
+          <p>FitGrocery is a leading online grocery store in the Mauritius. We are committed to providing the best quality products at the best prices.</p>
           <img src={social} alt='social' className='social' />
 
         </div>

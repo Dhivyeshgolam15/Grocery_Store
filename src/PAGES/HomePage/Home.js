@@ -447,7 +447,7 @@ const Home = () => {
       <Navbar reloadnavbar={false}/>
       <BannerSlider />
       <HomeCategories />
-      <Product_Sidebar />
+      {/* <Product_Sidebar /> */}
       <Footer1 />
 
       <div className='slidercont'>
