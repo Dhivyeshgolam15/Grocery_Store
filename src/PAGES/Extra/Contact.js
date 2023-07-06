@@ -23,7 +23,9 @@ const Contact = () => {
 
                 <div>
                     <h1>Our Story</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p> Once upon a time, nestled in a bustling neighborhood, there existed a small, quaint grocery store called "FitGrocery." FitGrocery was more than just a place to buy fresh produce and pantry staples. It was a community hub, where neighbors gathered, friendships blossomed, and stories were shared.
+
+Run by a friendly Man Dhivyesh Golam,FitGrocery Market had a humble beginning. They had always dreamed of creating a place where people could find high-quality, locally sourced products and enjoy a personalized shopping experience. With their passion for sustainable living and a deep-rooted commitment to supporting local farmers and artisans, they embarked on their grocery store journey.</p>
 
                 </div>
             </div>
@@ -32,8 +34,11 @@ const Contact = () => {
 
                 <div>
                     <h1>Who are we</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p>Beyond groceries,FitGrocery became a gathering place for workshops, cooking classes, and community events. It hosted educational sessions on composting, gardening, and mindful eating, inspiring the community to embrace sustainable lifestyle choices.
 
+As the years passed, FitGrocery Market grew alongside the community it served. It became a symbol of unity, where people from different backgrounds came together, forging lifelong friendships and celebrating their shared love for good food and a sustainable future.
+
+And so, the story of FitGrocery Market continues, weaving its way into the lives of the community it cherishes. Sarah and Michael's dream lives on, nourishing both bodies and souls, one grocery bag at a time.</p>
                 </div>
             </div>
 

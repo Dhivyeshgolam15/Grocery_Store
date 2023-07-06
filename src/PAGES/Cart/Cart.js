@@ -15,7 +15,7 @@ import OrderSuccessful from '../../Providers/OrderSuccessfulProvider';
 
 // import {OrderSucessfuls} from '../../COMPONENTS/Order/OrderSuccessfulProvider'
 const Cart = () => {
-  const [cartdata, setcartdata] = React.useState([0])
+  const [cartdata, setcartdata] = React.useState([])
   const [subtotal, setsubtotal] = React.useState(0)
   const [shipping, setshipping] = React.useState(0)
   const [active, setactive] = React.useState(1)
