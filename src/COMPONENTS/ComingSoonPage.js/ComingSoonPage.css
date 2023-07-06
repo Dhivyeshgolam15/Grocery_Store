@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    opacity: 0;
+    animation: fade-in 1s forwards;
+    background-color: #f8f8f8;
+    background-image: url('C:\Users\user-01\OneDrive\Desktop\Grocery_store-1\src\ASSETS\backgroung-image-css.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  @keyframes fade-in {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: #121111;
+    opacity: 0;
+    animation: slide-up 1s forwards;
+    animation-delay: 0.5s;
+  }
+  
+  p {
+    font-size: 100px;
+    color: #070707;
+    opacity: 0;
+    animation: slide-up 1s forwards;
+    animation-delay: 0.7s;
+  }
+  
+  @keyframes slide-up {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
