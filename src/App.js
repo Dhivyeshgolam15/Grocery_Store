@@ -10,7 +10,7 @@ import Contact from './PAGES/Extra/Contact';
 import Login from './PAGES/Auth/Login.js';
 import Signup from './PAGES/Auth/Signup.js';
 import ForgotPassword from './PAGES/Auth/ForgetPassword';
-import Cart from './PAGES/Cart/Cart.js';
+import Cart from './PAGES/Cart/Cart';
 import UserProfile from './PAGES/User/UserProfile';
 import FAQ from './PAGES/Extra/FAQ';
 import Termsandconditions from './PAGES/Extra/Termsandconditions';
