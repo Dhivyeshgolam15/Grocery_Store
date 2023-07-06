@@ -3,7 +3,7 @@ import './Navbar.css'
 import logo from '../../ASSETS/logo.png'
 import Dropdown from 'react-bootstrap/Dropdown'
 import { Link } from 'react-router-dom'
-import ComingSoonPage from '../ComingSoonPage.js/ComingSoonPage'
+import ComingSoonPage from '../ComingSoonPage/ComingSoonPage'
 const Navbar = ({ reloadnavbar }) => {
     const [cartquantity, setcartquantity] = useState(0)
 
