@@ -4,7 +4,8 @@ import './Footer1.css'
 const Footer1 = () => {
     return (
         <div className='footer1'>
-            <div className='left'>
+            <div className='left'>3.
+            
                 <img src={veges} alt='veges' />
             </div>
             <div className='right'>

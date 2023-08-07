@@ -38,7 +38,7 @@ Run by a friendly Man Dhivyesh Golam,FitGrocery Market had a humble beginning. T
 
 As the years passed, FitGrocery Market grew alongside the community it served. It became a symbol of unity, where people from different backgrounds came together, forging lifelong friendships and celebrating their shared love for good food and a sustainable future.
 
-And so, the story of FitGrocery Market continues, weaving its way into the lives of the community it cherishes. Sarah and Michael's dream lives on, nourishing both bodies and souls, one grocery bag at a time.</p>
+And so, the story of FitGrocery Market continues, weaving its way into the lives of the community it cherishes. Dhivyesh dreams lives on, nourishing both bodies and souls, one grocery bag at a time.</p>
                 </div>
             </div>
 
